@@ -1,5 +1,18 @@
-# Vue 3 + Vite
+# 👨‍💻 Alexandra Nicole Cristobal | Portfolio
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A modern, responsive portfolio website built with **Vue.js 3** and **Tailwind CSS**. It features a dynamic **Dark/Light Mode** theme with a unique holographic lavender aesthetic, smooth animations, and showcases my projects as a Full Stack Web Developer.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+🔗 **Live Demo:** [https://cristobalalex.github.io/CristobalPortfolio/](https://cristobalalex.github.io/CristobalPortfolio/)
+
+## Features
+
+* **Powered by Vite:** Ultra-fast development server and optimized build.
+* **Dynamic Theming:**
+    * **Dark Mode:** Deep Galactic Violet background with neon purple accents.
+    * **Light Mode:** Soft Pastel Lavender background with holographic gradients.
+* **Fully Responsive:** Optimized for Mobile, Tablet, and Desktop.
+* **Interactions:** Smooth scrolling, sticky sidebar navigation, and ambient "Aurora" background animations.
+* **Tech Stack:**
+    * [Vue.js 3](https://vuejs.org/) (Composition API)
+    * [Tailwind CSS](https://tailwindcss.com/)
+    * [FontAwesome](https://fontawesome.com/) (Icons)
