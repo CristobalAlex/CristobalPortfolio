@@ -1,5 +1,4 @@
-#Alexandra Nicole Cristobal | Portfolio
-
+## Alexandra Nicole Cristobal | Portfolio
 A modern, responsive portfolio website built with **Vue.js 3** and **Tailwind CSS**. It features a dynamic **Dark/Light Mode** theme with a unique holographic lavender aesthetic, smooth animations, and showcases my projects as a Full Stack Web Developer.
 **Live Demo:** [https://cristobalalex.github.io/CristobalPortfolio/](https://cristobalalex.github.io/CristobalPortfolio/)
 ## Features
